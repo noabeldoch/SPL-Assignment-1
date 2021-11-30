@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ass1Noa3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/sf_SPL/Ass1Noa3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/sf_SPL/Ass1Noa3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/sf_SPL/Ass1Noa3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ass1Noa3">
+				<Option output="/media/sf_SPL/Ass1Noa3/cmake-build-debug/Ass1Noa3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_SPL/Ass1Noa3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ass1Noa3"/>
+					<CompileFile command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ass1Noa3/fast">
+				<Option output="/media/sf_SPL/Ass1Noa3/cmake-build-debug/Ass1Noa3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/sf_SPL/Ass1Noa3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ass1Noa3/fast"/>
+					<CompileFile command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j3 -f &quot;/media/sf_SPL/Ass1Noa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/include/Action.h">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/include/Customer.h">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/include/Studio.h">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/include/Trainer.h">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/include/Workout.h">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/src/Action.cpp">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/src/Customer.cpp">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/src/Studio.cpp">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/src/Trainer.cpp">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/src/Workout.cpp">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/src/main.cpp">
+			<Option target="Ass1Noa3"/>
+		</Unit>
+		<Unit filename="/media/sf_SPL/Ass1Noa3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
